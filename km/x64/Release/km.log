@@ -1,0 +1,6 @@
+﻿  Building 'km' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  main.cpp
+C:\Users\zenob\Desktop\skidded driver\skidded driver\km\utils.hpp(12,65): warning C4305: 'argument': truncation from '__int64' to 'ULONG'
+C:\Users\zenob\Desktop\skidded driver\skidded driver\km\utils.hpp(12,55): warning C4309: 'argument': truncation of constant value
+  km.vcxproj -> C:\Users\zenob\Desktop\skidded driver\skidded driver\km\x64\Release\km.sys
+  Driver is 'Universal'.
